@@ -1,0 +1,7 @@
+name: MetanoiaCore
+version: '${project.version}'
+main: me.vhajor.metanoiacore.MetanoiaCore
+api-version: 1.14
+authors: [ Vhajor ]
+description: yup.
+load: STARTUP
